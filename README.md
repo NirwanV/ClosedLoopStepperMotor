@@ -98,12 +98,9 @@ This project presents the design, implementation, and evaluation of a closed-loo
 
 ## ⚠️ Notes
 
-- Encoder feedback is optional; sensorless mode performs adequately for many applications.
 - PID parameters must be tuned based on motor characteristics and system load.
 
 ---
 
-## 📜 License
 
-This project is released under the MIT License.
 
